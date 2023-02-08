@@ -1,13 +1,12 @@
 {
-    "files.autoSave": "onFocusChange",
-    "editor.formatOnSave": true,
-    "window.zoomLevel": -1,
-    "editor.formatOnPaste": true,
-    "editor.formatOnType": true,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Monokai Dimmed",
-    "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "printWidth": 80,  
+    "tabWidth": 2,
+    "useTabs": false,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "arrowParens": "avoid",
+    "proseWrap": "always"
     }
-}
